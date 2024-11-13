@@ -1,0 +1,37 @@
+label,value
+lên,1
+đi lên,1
+đi thẳng,1
+đi,1
+tiến,1
+thẳng tiến,1
+tiến lên,1
+quay trái,2
+trái,2
+sang trái,2
+quay sang trái,2
+phải,3
+quay phải,3
+sang phải,3
+rẽ phải,3
+rẽ trái,2
+bên phải,3
+bên trái,2
+đi lùi,4
+lùi,4
+lui,4
+lùi lại,4
+lui lại,4
+quay đầu,4
+quay lại,4
+xoay,5
+xoay vòng,5
+vòng,5
+quay vòng,5
+dừng lại, 6
+dừng,6
+đứng,6
+đứng yên,6
+yên,6
+ngừng,6
+ngưng,6
